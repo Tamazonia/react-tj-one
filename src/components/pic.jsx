@@ -29,3 +29,6 @@ class Pic extends Component {
 }
 
 export default Pic;
+
+
+
